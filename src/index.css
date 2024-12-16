@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+@font-face {
+  font-family: "Roboto-Black.ttf";
+  src: url(./assets/Roboto-Black.ttf) format("ttf");
+}

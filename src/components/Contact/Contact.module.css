@@ -1,0 +1,55 @@
+.topFlex {
+    display: flex;
+    align-items: center;
+}
+
+.lineF {
+    width: 150px;
+    height: 1px;
+    background-color: #002664;
+}
+
+.lineS {
+    width: 100%;
+    height: 1px;
+    background-color: #002664;
+}
+
+.div{ 
+    padding: 9px 0;
+    border: 5px solid #002664;
+    width: 156px;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 260px;
+}
+
+.botFlex {
+    display: flex;
+    align-items: center;
+}
+
+.con {
+    padding-top: 10px;
+    color: #002664;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    justify-content:  space-between;
+}
+
+.text span {
+    color: #002664;
+}

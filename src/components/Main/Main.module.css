@@ -1,0 +1,60 @@
+.divImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 13px 0 58px;
+}
+
+.line {
+    height: 1px;
+    background-color: black;
+}
+
+.divFlex {
+    display: flex;
+    padding-top: 30px;
+}
+
+.text p {
+    margin: 0;
+    width: 364px;
+    color: #002056;
+}
+
+.flexCard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    display:  flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 68px;
+}
+
+.cardEnd {
+    display:  flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-right: 336px;
+}
+
+.photo {
+    display: flex;
+    align-items: center;
+}
+
+.lineS {
+    width: 50%;
+    height: 1px;
+    background-color: black;
+}
+
+.imgFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
